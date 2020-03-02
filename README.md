@@ -1,9 +1,9 @@
 # Dockerised-Flask-App
 
-***Requirements***
+***Requirements***</br>
 Docker 
 
-***To Run***
+***To Run***</br>
 In terminal run
 > docker run nl900/whale-flask-app:v1.0
 
