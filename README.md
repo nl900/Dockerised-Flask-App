@@ -5,7 +5,7 @@ Docker
 
 ***To Run***</br>
 In terminal run
-> docker run nl900/whale-flask-app:v1.0
+> docker run nl900/whale-flask-app
 
 Navigate to 0.0.0.0:5000 in your browser</br>
 
