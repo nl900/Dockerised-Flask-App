@@ -6,7 +6,7 @@ Docker
 ***To Run***</br>
 In terminal run
 ```shell
-% docker pull nl900/whale-flask-app </br>
+% docker pull nl900/whale-flask-app
 % docker run -d -p 5000:5000 nl900/whale-flask-app
 ```
 
